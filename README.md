@@ -1,4 +1,4 @@
-Docker Woo commerce
+Docker WooCommerce
 ===
 
 Woo commerce is a free eCommerce toolkit for WordPress.
