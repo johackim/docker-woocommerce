@@ -4,6 +4,8 @@ wordpress:
     - db:mysql
   ports:
     - 8080:80
+  environment:
+    WORDPRESS_DB_PASSWORD: swialyitt6
 
 db:
   image: mariadb
